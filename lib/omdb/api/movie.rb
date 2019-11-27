@@ -24,6 +24,7 @@ module Omdb
                   :title,
                   :type,
                   :writer,
+                  :production,
                   :year
 
       def initialize(params)
